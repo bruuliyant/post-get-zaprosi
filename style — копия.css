@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: 500ms;
+    z-index: 1;
+}
+
+.right {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    position: relative;
+    cursor: pointer;
+    z-index: 2;
+    left: 96%;
+    bottom: 280px;
+}
+
+.right img {
+    transform: rotate(180deg);
+}
+
+.left {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    position: relative;
+    cursor: pointer;
+    z-index: 2;
+    top: 220px;
+}
+
+.b {
+    gap: 25px;
+    width: 100% !important;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.a {
+    display: none;
+}
+
+.pokaz {
+    width: 322px;
+    height: 50px;
+    margin-left: 32.5%;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.wrapper {
+    overflow: hidden;
+    gap: 25px;
+    width: 5175px;
+    justify-content: center;
+    position: relative;
+    display: flex;
+}
+
+.div {
+    width: 321px;
+    height: 464px;
+}
+
+.skidka {
+    color: #EB5757;
+}
+
+.img {
+    width: 320px;
+    height: 370px;
+}
+
+.tittle {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.texta {
+    display: flex;
+    gap: 15px;
+}
+
+.price {
+    text-decoration: line-through;
+}

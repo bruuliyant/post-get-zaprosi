@@ -1,0 +1,124 @@
+{
+    "tovar": [
+        {
+            "tittle": "sekiro",
+            "img": "https://i.playground.ru/e/gdpSx0eiKxhK3obnNaLCaQ.jpeg?480x665",
+            "price": "150 000 000Р",
+            "skidka": "750 000 000",
+            "percent": "+500%",
+            "id": "1"
+        },
+        {
+            "tittle": "dark souls",
+            "img": "https://m.media-amazon.com/images/M/MV5BYzJhYTgzYzYtYjdjOC00ZDYyLTg0NjYtZDEwMDlkODA3OWI4XkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_.jpg",
+            "price": "10 000 000Р",
+            "skidka": "7 500 000 000",
+            "percent": "+500%",
+            "id": "2"
+        },
+        {
+            "tittle": "god of war",
+            "img": "https://cdn.europosters.eu/image/750/posters/playstation-god-of-war-i116582.jpg",
+            "price": "50 000 000Р",
+            "skidka": "700 000 000 000",
+            "percent": "+500%",
+            "id": "3"
+        },
+        {
+            "tittle": "minecraft",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTOJB4iH1WASTmGADNvhpNsQvbsQ0niignuyzYUhReA&s",
+            "price": "10Р",
+            "skidka": "999 999 999 999 999",
+            "percent": "+500%",
+            "id": "4"
+        },
+        {
+            "tittle": "cuphead",
+            "img": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Cuphead_%28artwork%29.png",
+            "price": "10 000Р",
+            "skidka": "400 000",
+            "percent": "+500%",
+            "id": "5"
+        },
+        {
+            "tittle": "google dinosaor",
+            "img": "https://play-lh.googleusercontent.com/iiIJq5JmLFYNI1bVz4IBHyoXs508JcEzHhOgau69bnveF9Wat51-ax9LMPVOlneKwqg",
+            "price": "1Копейка",
+            "skidka": "750 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 0",
+            "percent": "+500%",
+            "id": "6"
+        },
+        {
+            "tittle": "outlast",
+            "img": "https://m.media-amazon.com/images/M/MV5BNWFkZjY5ZmYtMmU4My00MzAyLTgzYzYtZDc5MTQzOTA2MDg5XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg",
+            "price": "100Р",
+            "skidka": "1000 000",
+            "percent": "+500%",
+            "id": "7"
+        },
+        {
+            "tittle": "hogwarts legacy",
+            "img": "https://m.media-amazon.com/images/M/MV5BMmI5OTNlNzUtZjFjNC00MmVlLTljZmYtMWZlYjQzM2E3YmVlXkEyXkFqcGdeQXVyMTY3NTgwODk5._V1_FMjpg_UX1000_.jpg",
+            "price": "150 000 000Р",
+            "skidka": "7",
+            "percent": "+500%",
+            "id": "8"
+        },
+        {
+            "tittle": "cyberpunk 2077",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS6TP7rh9783QGphczayX2MJ9Gk5Emm0JE4s6-00362w&s",
+            "price": "100 000Р",
+            "skidka": "750 000",
+            "percent": "+500%",
+            "id": "9"
+        },
+        {
+            "tittle": "metro exodus",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_UHKSZF3ecQgjwOISzOqznaG0hfDkp70I4QCIg3QSGg&s",
+            "price": "150 000 000Р",
+            "skidka": "750 000 000",
+            "percent": "+500%",
+            "id": "10"
+        },
+        {
+            "tittle": "stalker 2",
+            "img": "https://upload.wikimedia.org/wikipedia/ru/5/5c/S.T.A.L.K.E.R._2_Logo.png",
+            "price": "50 000 000Р",
+            "skidka": "70 000 000",
+            "percent": "+500%",
+            "id": "11"
+        },
+        {
+            "tittle": "GTA V",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbfmVaqxc2RNLEB2P6h-kTNc9AS9fwTB82ULOMRuR_Fw&s",
+            "price": "150 000Р",
+            "skidka": "750 000 000",
+            "percent": "+500%",
+            "id": "12"
+        },
+        {
+            "tittle": "pac man",
+            "img": "https://media.cnn.com/api/v1/images/stellar/prod/200518114838-05-pac-man-40.jpg?q=w_1600,h_2136,x_0,y_0,c_fill",
+            "price": "150 000Р",
+            "skidka": "75000",
+            "percent": "+500%",
+            "id": "13"
+        },
+        {
+            "tittle": "need for speed",
+            "img": "https://upload.wikimedia.org/wikipedia/ru/thumb/1/15/NFS-Most-Wanted-Front.jpg/274px-NFS-Most-Wanted-Front.jpg",
+            "price": "1200Р",
+            "skidka": "750 000",
+            "percent": "+500%",
+            "id": "14"
+        },
+        {
+            "tittle": "terarria",
+            "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Terraria_Steam_artwork.jpg",
+            "price": "0Р",
+            "skidka": "999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999 999",
+            "percent": "+500%",
+            "id": "15"
+        }
+    ]
+}

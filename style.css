@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.wrapper {
+    gap: 25px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.div {
+    width: 321px;
+    height: 464px;
+}
+
+.skidka {
+    color: #EB5757;
+}
+
+.img {
+    width: 320px;
+    height: 370px;
+}
+
+.tittle {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.texta {
+    display: flex;
+    gap: 15px;
+}
+
+.price {
+    text-decoration: line-through;
+}
